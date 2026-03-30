@@ -54,5 +54,8 @@ The model was evaluated on a validation dataset using standard classification me
 
 The model demonstrates highly consistent performance across all fruit categories with minimal misclassifications.
 
+The evaluation was performed using a confusion matrix and classification report to ensure balanced performance across all classes.
+
+Despite high validation performance, real-world accuracy is estimated to be around 90–95% due to variations in lighting, background, and image quality.
 
 ## 📂 Project Structure
