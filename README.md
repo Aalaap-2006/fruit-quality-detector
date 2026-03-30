@@ -43,4 +43,16 @@ A deep learning-based web application that detects whether a fruit is **Fresh** 
 
 ---
 
+## 📊 Model Performance
+
+The model was evaluated on a validation dataset using standard classification metrics.
+
+- **Accuracy:** ~99–100%
+- **Precision:** ~97–100%
+- **Recall:** ~97–100%
+- **F1 Score:** ~97–100%
+
+The model demonstrates highly consistent performance across all fruit categories with minimal misclassifications.
+
+
 ## 📂 Project Structure
